@@ -1,0 +1,1 @@
+print("El nombre de tu cerveza es:\n" + "\"" + input("Dime un objeto: ") + " " + input("Dime un color: ") + "\"")
